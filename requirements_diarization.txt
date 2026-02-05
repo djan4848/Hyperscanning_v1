@@ -1,0 +1,16 @@
+# --- Transcription & diarization ---
+whisperx==3.7.4
+pyannote.audio==3.4.0
+torch==2.8.0
+torchaudio==2.8.0
+omegaconf
+# --- Emotions (video) ---
+deepface==0.0.97
+tensorflow==2.20.0
+tf-keras==2.20.1
+opencv-python==4.13.0.90
+numpy==2.0.2
+pandas==2.2.3
+tqdm==4.67.1
+
+
